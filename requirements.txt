@@ -3,3 +3,4 @@ PyOpenGL_accelerate
 PyOpenGL-Demo
 PyGame
 numpy
+Pillow
